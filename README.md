@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dummyjar&label=Profile%20views&color=0e75b6&style=flat" alt="dummyjar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dummyjar" alt="dummyjar" /></a> </p>
-
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dummyjar" alt="dummyjar" /></a> </p>
+-->
 - 🌱 I’m currently learning **Python,tkinter,SQL,and other intersting subjects.**
 
 - 📝 My few blogs [https://lacasadecomputing.blogspot.com/](https://lacasadecomputing.blogspot.com/)
