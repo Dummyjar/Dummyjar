@@ -1,6 +1,4 @@
-<h1 align="left" >Hello!, Hola!, Namaste!, Konnichiwa!👋,  I'm Rajarshi Banerjee </h1>
-
-
+<img src="https://github.com/Dummyjar/Dummyjar/blob/main/g.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dummyjar&label=Profile%20views&color=0e75b6&style=flat" alt="dummyjar" /> </p>
 
