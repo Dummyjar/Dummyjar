@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact **The only "Fun" about "Fact" is Facts Are Captivating Truths**
 
+<img src="https://github.com/Dummyjar/Dummyjar/blob/main/rafael-pol-6b5uqlWabB0-unsplash.jpg">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajarshi-banerz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajarshi-banerjee-061378193" height="30" width="40" /></a>
