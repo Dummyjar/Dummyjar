@@ -41,7 +41,7 @@
   
  <table style="width:100%">
   <tr>
-   <th><a href="https://github.com/Dummyjar/turtle-graphics/blob/master/shinchan.py"Shinchan</a></th>
+   <th><a href="https://github.com/Dummyjar/turtle-graphics/blob/master/shinchan.py">Shinchan</a></th>
     <th><a href="https://github.com/Dummyjar/turtle-graphics/blob/master/indianflag.py">Indian Flag</a></th>
     
   </tr>
