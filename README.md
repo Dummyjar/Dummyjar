@@ -1,19 +1,25 @@
-<img src="https://github.com/Dummyjar/Dummyjar/blob/main/g.gif">
+<img src="https://github.com/Dummyjar/Dummyjar/blob/main/g.gif" width="1280px" height="580px">
 
 <p align="center"> 
  Visitas al perfil :<br>
   <img src="https://profile-counter.glitch.me/Dummyjar/count.svg" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dummyjar&label=Profile%20views&color=0e75b6&style=flat" alt="dummyjar" /> </p>
+<img align='right' src="https://github.com/Dummyjar/Dummyjar/blob/main/Ry6p.gif" width="300" height="300">
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dummyjar" alt="dummyjar" /></a> </p>
 -->
-- 🌱 I’m currently learning **Python,tkinter,SQL,and other intersting subjects.**
+
+#  <img src="https://github.com/Dummyjar/Dummyjar/blob/main/icon.jpg" width="50px" height="50px">  A little bit about me
+- 💻 I'm currently 3rd year student at University Of Calcutta <img src="https://github.com/Dummyjar/Department-Database-Project/blob/master/img/culogo.png" width="40px" height="40px">
+
+
+- 🌱 Learning **Python,tkinter,SQL,and other intersting subjects.**
 
 - 📝 My few blogs [https://lacasadecomputing.blogspot.com/](https://lacasadecomputing.blogspot.com/)
 
 - 📫 How to reach me **rajarshiban13@gmail.com**
+
 
 - ⚡ Fun fact **The only "Fun" about "Fact" is Facts Are Captivating Truths**
 
@@ -30,12 +36,25 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <img src="https://user-images.githubusercontent.com/55054089/122890255-26bad900-d361-11eb-9bce-e3943f752308.png" width=40 height =40></p>
 
-***
-  # Python Art
+
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python Art:
   
-  <img src="https://github.com/Dummyjar/Dummyjar/blob/main/schan.gif">
+ <table style="width:100%">
+  <tr>
+    <th>Shinchan.py</th>
+    <th>IndianFlag.py</th>
+    
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Dummyjar/Dummyjar/blob/main/schan.gif" width="400px" height="300px"></td>
+   <td><img src="https://github.com/Dummyjar/Dummyjar/blob/main/video_2021-08-21_23-47-10.gif" width="400px" height="300px"></td>
+    
   
-***
+  </tr>
+</table>
+
+# Github Stats:
+
 <table>
   <tr>
     <td align="center" colspan="2">
@@ -54,6 +73,7 @@
 
 
 ***
+# Github Activity:
 
 [![Rajarshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dummyjar&theme=react-dark)](https://github.com/Dummyjar/github-readme-activity-graph)
 
