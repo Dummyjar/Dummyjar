@@ -1,4 +1,4 @@
-<img src="https://github.com/Dummyjar/Dummyjar/blob/main/g.gif" width="1280px" height="580px">
+<img src="https://github.com/Dummyjar/Dummyjar/blob/main/g.gif" width="1280px" height="520px">
 
 <p align="center"> 
  Visitas al perfil :<br>
@@ -22,8 +22,8 @@
 
 
 - ⚡ Fun fact **The only "Fun" about "Fact" is Facts Are Captivating Truths**
-
-<img src="https://github.com/Dummyjar/Dummyjar/blob/main/rafael-pol-6b5uqlWabB0-unsplash.jpg">
+<!--
+<img src="https://github.com/Dummyjar/Dummyjar/blob/main/rafael-pol-6b5uqlWabB0-unsplash.jpg"> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
