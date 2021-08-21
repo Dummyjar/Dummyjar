@@ -1,5 +1,10 @@
 <img src="https://github.com/Dummyjar/Dummyjar/blob/main/g.gif">
 
+<p align="center"> 
+ Visitas al perfil :<br>
+  <img src="https://profile-counter.glitch.me/Dummyjar/count.svg" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dummyjar&label=Profile%20views&color=0e75b6&style=flat" alt="dummyjar" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dummyjar" alt="dummyjar" /></a> </p>
@@ -26,12 +31,29 @@
 <img src="https://user-images.githubusercontent.com/55054089/122890255-26bad900-d361-11eb-9bce-e3943f752308.png" width=40 height =40></p>
 
 ***
+  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dummyjar&langs_count=8)](https://github.com/dummyjar/github-readme-stats)
+<table>
+  <tr>
+    <td align="center" colspan="2">
+        <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dummyjar&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" height="200px" width="600px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=dummyjar&show_icons=true&theme=radical" width="360px" height="170px" >
+    </td>
+    <td align="center">
+        <img align="right" src ="https://github-readme-streak-stats.herokuapp.com?user=dummyjar&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px">
+    </td>
+  </tr>
+</table>
 
-![Rajarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dummyjar&show_icons=true&theme=radical)
 
 ***
+
+[![Rajarshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dummyjar&theme=react-dark)](https://github.com/Dummyjar/github-readme-activity-graph)
+
 
 <details>
   <summary> Certificates </summary>
