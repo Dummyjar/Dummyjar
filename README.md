@@ -31,8 +31,11 @@
 <img src="https://user-images.githubusercontent.com/55054089/122890255-26bad900-d361-11eb-9bce-e3943f752308.png" width=40 height =40></p>
 
 ***
+  # Python Art
   
-
+  <img src="https://github.com/Dummyjar/Dummyjar/blob/main/schan.gif">
+  
+***
 <table>
   <tr>
     <td align="center" colspan="2">
