@@ -41,16 +41,12 @@
   
  <table style="width:100%">
   <tr>
-   <th><a href="https://github.com/Dummyjar/turtle-graphics/blob/master/shinchan.py">Shinchan</a></th>
-    <th><a href="https://github.com/Dummyjar/turtle-graphics/blob/master/indianflag.py">Indian Flag</a></th>
-    
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Dummyjar/Dummyjar/blob/main/schan.gif" width="400px" height="300px"></td>
-   <td><img src="https://github.com/Dummyjar/Dummyjar/blob/main/video_2021-08-21_23-47-10.gif" width="400px" height="300px"></td>
+    <td><a href="https://github.com/Dummyjar/turtle-graphics/blob/master/shinchan.py"><img src="https://github.com/Dummyjar/Dummyjar/blob/main/schan.gif" width="400px" height="300px"></a></td>
+   <td><a href="https://github.com/Dummyjar/turtle-graphics/blob/master/indianflag.py"><img src="https://github.com/Dummyjar/Dummyjar/blob/main/video_2021-08-21_23-47-10.gif" width="400px" height="300px"></a></td>
   </tr>
  <tr>
   <td><a href="https://github.com/Dummyjar/turtle-graphics/blob/master/pylogo.py"><img src="https://github.com/Dummyjar/Dummyjar/blob/main/InShot_20210822_204315352.gif" width="400px" height="300px"></a></td>
+  <td><a href="https://github.com/Dummyjar/turtle-graphics/blob/master/valentine.py"><img src="https://github.com/Dummyjar/Dummyjar/blob/main/lou.gif" width="400px" height="300px"></a></td>
  </tr>
 </table>
 
