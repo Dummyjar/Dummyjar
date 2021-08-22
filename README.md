@@ -1,4 +1,4 @@
-<img src="https://github.com/Dummyjar/Dummyjar/blob/main/g.gif" width="1280px" height="520px">
+<img src="https://github.com/Dummyjar/Dummyjar/blob/main/g.gif"><!-- width="1280px" height="520px"-->
 
 <p align="center"> 
  Visitas al perfil :<br>
