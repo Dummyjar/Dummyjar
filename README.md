@@ -1,17 +1,17 @@
-<img src="https://github.com/Dummyjar/Dummyjar/blob/main/g.gif"><!-- width="1280px" height="520px"-->
+<img src="https://github.com/GSAUC3/GSAUC3/blob/main/g.gif"><!-- width="1280px" height="520px"-->
 
 <p align="center"> 
  Visitas al perfil :<br>
-  <img src="https://profile-counter.glitch.me/Dummyjar/count.svg" />
+  <img src="https://profile-counter.glitch.me/GSAUC3/count.svg" />
 </p>
 
-<img align='right' src="https://github.com/Dummyjar/Dummyjar/blob/main/Ry6p.gif" width="300" height="300">
+<img align='right' src="https://github.com/GSAUC3/GSAUC3/blob/main/Ry6p.gif" width="300" height="300">
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dummyjar" alt="dummyjar" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GSAUC3" alt="GSAUC3" /></a> </p>
 -->
 
-#  <img src="https://github.com/Dummyjar/Dummyjar/blob/main/icon.jpg" width="50px" height="50px">  A little bit about me
-- 💻 I'm currently 3rd year student at University Of Calcutta <img src="https://github.com/Dummyjar/Department-Database-Project/blob/master/img/culogo.png" width="40px" height="40px">
+#  <img src="https://github.com/GSAUC3/GSAUC3/blob/main/icon.jpg" width="50px" height="50px">  A little bit about me
+- 💻 I'm currently 3rd year student at University Of Calcutta <img src="https://github.com/GSAUC3/Department-Database-Project/blob/master/img/culogo.png" width="40px" height="40px">
 
 
 - 🌱 Learning **Python,tkinter,SQL,and other intersting subjects.**
@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **The only "Fun" about "Fact" is Facts Are Captivating Truths**
 <!--
-<img src="https://github.com/Dummyjar/Dummyjar/blob/main/rafael-pol-6b5uqlWabB0-unsplash.jpg"> -->
+<img src="https://github.com/GSAUC3/GSAUC3/blob/main/rafael-pol-6b5uqlWabB0-unsplash.jpg"> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,12 +41,12 @@
   
  <table style="width:100%">
   <tr>
-    <td><a href="https://github.com/Dummyjar/turtle-graphics/blob/master/shinchan.py"><img src="https://github.com/Dummyjar/Dummyjar/blob/main/schan.gif" width="400px" height="300px"></a></td>
-   <td><a href="https://github.com/Dummyjar/turtle-graphics/blob/master/indianflag.py"><img src="https://github.com/Dummyjar/Dummyjar/blob/main/video_2021-08-21_23-47-10.gif" width="400px" height="300px"></a></td>
+    <td><a href="https://github.com/GSAUC3/turtle-graphics/blob/master/shinchan.py"><img src="https://github.com/GSAUC3/GSAUC3/blob/main/schan.gif" width="400px" height="300px"></a></td>
+   <td><a href="https://github.com/GSAUC3/turtle-graphics/blob/master/indianflag.py"><img src="https://github.com/GSAUC3/GSAUC3/blob/main/video_2021-08-21_23-47-10.gif" width="400px" height="300px"></a></td>
   </tr>
  <tr>
-  <td><a href="https://github.com/Dummyjar/turtle-graphics/blob/master/pylogo.py"><img src="https://github.com/Dummyjar/Dummyjar/blob/main/InShot_20210822_204315352.gif" width="400px" height="300px"></a></td>
-  <td><a href="https://github.com/Dummyjar/turtle-graphics/blob/master/valentine.py"><img src="https://github.com/Dummyjar/Dummyjar/blob/main/lou.gif" width="400px" height="300px"></a></td>
+  <td><a href="https://github.com/GSAUC3/turtle-graphics/blob/master/pylogo.py"><img src="https://github.com/GSAUC3/GSAUC3/blob/main/InShot_20210822_204315352.gif" width="400px" height="300px"></a></td>
+  <td><a href="https://github.com/GSAUC3/turtle-graphics/blob/master/valentine.py"><img src="https://github.com/GSAUC3/GSAUC3/blob/main/lou.gif" width="400px" height="300px"></a></td>
  </tr>
 </table>
 
@@ -55,15 +55,15 @@
 <table>
   <tr>
     <td align="center" colspan="2">
-        <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dummyjar&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" height="200px" width="600px">
+        <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GSAUC3&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" height="200px" width="600px">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=dummyjar&show_icons=true&theme=radical" width="360px" height="170px" >
+      <img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=GSAUC3&show_icons=true&theme=radical" width="360px" height="170px" >
     </td>
     <td align="center">
-        <img align="right" src ="https://github-readme-streak-stats.herokuapp.com?user=dummyjar&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px">
+        <img align="right" src ="https://github-readme-streak-stats.herokuapp.com?user=GSAUC3&theme=vision-friendly-dark&hide_border=true" width="360px" height="170px">
     </td>
   </tr>
 </table>
@@ -72,7 +72,7 @@
 ***
 # Github Activity:
 
-[![Rajarshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dummyjar&theme=react-dark)](https://github.com/Dummyjar/github-readme-activity-graph)
+[![Rajarshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=GSAUC3&theme=react-dark)](https://github.com/GSAUC3/github-readme-activity-graph)
 
 
 <details>
