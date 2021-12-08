@@ -58,16 +58,22 @@
  <a href="https://www.hackerearth.com/@rajarshiban13"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
  <a href="https://www.codechef.com/users/g_sauce"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>
  <a href="https://leetcode.com/rajarshiban13/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"><a>
-  <a href =""><img src="https://github.com/GSAUC3/GSAUC3/blob/main/gfg%20icon.png" height = 28 width=160></a>
+  <a href =""><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
 
 </p>
   
-  <h1 align="left">Frameworks and Tools :</h3>
+  <h1 align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height = 40 width = 40>Frameworks and AI :</h3>
 <p align="left">
+ <img src="	https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+ <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+ <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+ <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+ <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+ 
   </p>
 
 
- # <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python Art:
+ # <img src="https://github.com/GSAUC3/GSAUC3/blob/main/icons8-python.gif" alt="python" width="40" height="40"/> Python Art:
 <!--  
  <table style="width:100%">
   <tr>
