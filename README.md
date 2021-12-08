@@ -72,6 +72,7 @@
  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Pygame_logo.gif" width = 160 height = 30>
  
   </p>
   
