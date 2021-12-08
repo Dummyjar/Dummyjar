@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/GSAUC3/count.svg" />
 </p>
 
-<img align='right' src="https://github.com/GSAUC3/GSAUC3/blob/main/icon.jpg"  width="300" height="300">
+<img align='right' src="https://github.com/GSAUC3/GSAUC3/blob/main/video_2021-12-09_00-54-11.gif"  width="200" height="250">
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GSAUC3" alt="GSAUC3" /></a> </p>
 -->
