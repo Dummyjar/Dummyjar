@@ -91,7 +91,12 @@
 ![UC-a9d6a113-56e7-48e3-b209-8f49caf66f2d](https://user-images.githubusercontent.com/55054089/125967376-76e246f8-e825-4c17-bde6-cecece6cff37.jpg)
 ![5e948824a6de41819a900da7cbb98d35-0001](https://user-images.githubusercontent.com/55054089/125974544-8202e8f5-046c-40de-bf2e-eedd350bbef9.jpg)
 ![UC-d8e4bdfd-6c52-4422-beaa-1549cb9e7171](https://user-images.githubusercontent.com/55054089/125974749-7a0e5521-5d0e-4485-940c-2c5402875381.jpg)
+![284_00_Socialmediapost-1](https://user-images.githubusercontent.com/55054089/145183931-cdd538ee-9757-4600-9c09-e58bfbc8c83c.png)
+![certificate-elements-of-ai](https://user-images.githubusercontent.com/55054089/145184084-b84a0d7d-edb3-4c04-91c2-2ebdd639d3d4.png)
+![Rajarshi Banerjee - Computer Vision](https://user-images.githubusercontent.com/55054089/145187499-117e718e-4946-418a-85f1-436522c45c8b.png)
 
+![Rajarshi Banerjee - Intro to Deep Learning](https://user-images.githubusercontent.com/55054089/145187513-32425f2b-14d8-476e-a888-5efe883a7e11.png)
+![Screenshot 2021-12-08 152702](https://user-images.githubusercontent.com/55054089/145188086-ec3e1d5b-9cb8-4ca5-b636-1f257ce18169.png)
 
   
 </details>
