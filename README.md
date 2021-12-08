@@ -2,6 +2,7 @@
 
 <p align="center"> 
  <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white"><br><br>
+ 
   <img src="https://profile-counter.glitch.me/GSAUC3/count.svg" />
 </p>
 
@@ -17,7 +18,7 @@
 
 - 🌱 Learning is a neverending process, augmenting knowledge everyday bit by bit.
 
-- 📝 My few blogs [https://lacasadecomputing.blogspot.com/](https://lacasadecomputing.blogspot.com/)
+- 📝 Feel free to check out my few blogs at <a href="https://lacasadecomputing.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" align ="center"></a>
 
 - ⚡ Fun fact **The only "Fun" about "Fact" is Facts Are Captivating Truths**
 
@@ -38,6 +39,7 @@
 <a href="https://fb.com/rajarshi.banerjee.988" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="rajarshi banerjee"  /></a>
 <a href="https://instagram.com/__banerz__.py" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="baner_z"  /></a>
   <a href = "https://github.com/GSAUC3" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.kaggle.com/banerz"><img align ="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 </p>
 
 
@@ -52,7 +54,7 @@
   
 </p>
 
-<h1 align="left">Coding platforms 👨‍💻💻🌐:</h3>
+<h1 align="left">💻Coding platforms 👨‍💻🌐:</h3>
 <p align="left">
  <a href="https://www.hackerrank.com/rajarshiban13"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
  <a href="https://www.hackerearth.com/@rajarshiban13"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
@@ -71,9 +73,29 @@
  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
  
   </p>
-
-
- # <img src="https://github.com/GSAUC3/GSAUC3/blob/main/icons8-python.gif" alt="python" width="40" height="40"/> Python Art:
+  
+ # 📚✏️ Learnt a lot from these platforms 🖋️📄
+  <p align ="left">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+  <img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
+<img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
+  </p>
+  
+ # other tools and IDEs
+  <p align="left">
+   <img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D">
+   <img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC">
+   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  </p>
+  
+  
+  # <img src="https://github.com/GSAUC3/GSAUC3/blob/main/icons8-python.gif" alt="python" width="40" height="40"/> Python Art:
 <!--  
  <table style="width:100%">
   <tr>
