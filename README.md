@@ -11,25 +11,26 @@
 -->
 
 #  <img src="https://github.com/GSAUC3/GSAUC3/blob/main/icon.jpg" width="50px" height="50px">  A little bit about me
-- 💻 I'm currently 3rd year student at University Of Calcutta <img src="https://github.com/GSAUC3/Department-Database-Project/blob/master/img/culogo.png" width="40px" height="40px">
+- 💻 I'm a final year student at University Of Calcutta <img src="https://github.com/GSAUC3/Department-Database-Project/blob/master/img/culogo.png" width="40px" height="40px">
 
+- 👨‍💻 Made couple of projects and loves to create new stuffs (games, GUI programs etc.) 
 
-- 🌱 Learning **Python,tkinter,SQL,and other intersting subjects.**
+- 🌱 Learning is a neverending process, augmenting knowledge everyday bit by bit.
 
 - 📝 My few blogs [https://lacasadecomputing.blogspot.com/](https://lacasadecomputing.blogspot.com/)
 
-- 📫 How to reach me **rajarshiban13@gmail.com**
-
-
 - ⚡ Fun fact **The only "Fun" about "Fact" is Facts Are Captivating Truths**
+
 <!--
 <img src="https://github.com/GSAUC3/GSAUC3/blob/main/rafael-pol-6b5uqlWabB0-unsplash.jpg"> -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me  📱 :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajarshi-banerz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajarshi-banerjee-061378193" height="30" width="40" /></a>
-<a href="https://fb.com/rajarshi.banerjee.988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajarshi banerjee" height="30" width="40" /></a>
-<a href="https://instagram.com/__banerz__.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baner_z" height="30" width="40" /></a>
+ <a href = "" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://linkedin.com/in/rajarshi-banerz" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rajarshi-banerjee-061378193"  /></a>
+<a href="https://fb.com/rajarshi.banerjee.988" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="rajarshi banerjee"  /></a>
+<a href="https://instagram.com/__banerz__.py" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="baner_z"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,8 +38,8 @@
 <img src="https://user-images.githubusercontent.com/55054089/122890255-26bad900-d361-11eb-9bce-e3943f752308.png" width=40 height =40></p>
 
 
-<!-- # <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python Art:
-  
+ # <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python Art:
+<!--  
  <table style="width:100%">
   <tr>
     <td><a href="https://github.com/GSAUC3/turtle-graphics/blob/master/shinchan.py"><img src="https://github.com/GSAUC3/GSAUC3/blob/main/schan.gif" width="400px" height="300px"></a></td>
