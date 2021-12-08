@@ -1,4 +1,4 @@
-<img src="https://github.com/GSAUC3/GSAUC3/blob/main/g.gif" width="1280px" height="520px">
+<img src="https://github.com/GSAUC3/GSAUC3/blob/main/g.gif" width=1280 height=520>
 
 <p align="center"> 
  <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white"><br><br>
