@@ -20,6 +20,8 @@
 
 - 📝 Feel free to check out my few blogs at <a href="https://lacasadecomputing.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" align ="center"></a>
 
+- 📃 Check out all my published articles at  <a href ="https://auth.geeksforgeeks.org/user/rajarshiban13/articles"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a> 
+
 - ⚡ Fun fact **The only "Fun" about "Fact" is Facts Are Captivating Truths**
 
 <!--
@@ -60,7 +62,7 @@
  <a href="https://www.hackerearth.com/@rajarshiban13"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
  <a href="https://www.codechef.com/users/g_sauce"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>
  <a href="https://leetcode.com/rajarshiban13/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"><a>
-  <a href =""><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+  <a href ="https://auth.geeksforgeeks.org/user/rajarshiban13/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
 
 </p>
   
