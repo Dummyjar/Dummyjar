@@ -64,7 +64,7 @@
 
 </p>
   
-  <h1 align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height = 40 width = 40>Frameworks and AI :</h3>
+  <h1 align="left"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height = 40 width = 40>Frameworks and AI :</h3>
 <p align="left">
  <img src="	https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
