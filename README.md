@@ -6,12 +6,12 @@
   <img src="https://profile-counter.glitch.me/GSAUC3/count.svg" />
 </p>
 
-<img align='right' src="https://github.com/GSAUC3/GSAUC3/blob/main/Ry6p.gif" width="300" height="300">
+<img align='right' src="https://github.com/GSAUC3/GSAUC3/blob/main/icon.jpg"  width="300" height="300">
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GSAUC3" alt="GSAUC3" /></a> </p>
 -->
 
-#  <img src="https://github.com/GSAUC3/GSAUC3/blob/main/icon.jpg" width="50px" height="50px">  A little bit about me
+#  <img src="https://github.com/GSAUC3/GSAUC3/blob/main/Ry6p.gif" width="50px" height="50px">  A little bit about me
 - 💻 I'm a final year student at University Of Calcutta <img src="https://github.com/GSAUC3/Department-Database-Project/blob/master/img/culogo.png" width="40px" height="40px">
 
 - 👨‍💻 Made couple of projects and loves to create new stuffs (games, GUI programs etc.) 
@@ -85,7 +85,7 @@
 <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
   </p>
   
- # other tools and IDEs
+ # Other tools and IDEs
   <p align="left">
    <img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D">
    <img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC">
