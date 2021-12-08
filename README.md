@@ -52,14 +52,20 @@
   
 </p>
 
-<h1 align="left">Coding platforms :</h3>
+<h1 align="left">Coding platforms 👨‍💻💻🌐:</h3>
 <p align="left">
  <a href="https://www.hackerrank.com/rajarshiban13"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
  <a href="https://www.hackerearth.com/@rajarshiban13"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
  <a href="https://www.codechef.com/users/g_sauce"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>
  <a href="https://leetcode.com/rajarshiban13/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"><a>
+  <a href =""><img src="https://github.com/GSAUC3/GSAUC3/blob/main/gfg%20icon.png" height = 28 width=160></a>
 
 </p>
+  
+  <h1 align="left">Frameworks and Tools :</h3>
+<p align="left">
+  </p>
+
 
  # <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python Art:
 <!--  
