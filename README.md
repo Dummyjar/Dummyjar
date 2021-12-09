@@ -11,14 +11,14 @@
 #  <img align="center" src="https://github.com/GSAUC3/GSAUC3/blob/main/Ry6p.gif" width="50px" height="50px">  A little bit about me
 ```python
 
-class Student(Homo_sapien):
+class Student:
     Preferred_language = PYTHON
-    def __init__(self):
-         self.name = "Rajarshi"
-         self.surname = "Banerjee"
+    def __init__(self, id):
+         self.__id = id
          self.university = 'University of Calcutta'
          self.stream = 'Optics and Optoelectronics Engineering'
          self.depertment = 'Department of Applied Optics and Photonics'
+    # Python art gifs will take to the respective repository
 ```
 
 
@@ -59,11 +59,12 @@ class Student(Homo_sapien):
 
 <h1 align="left">Programming Languages 👨‍💻:</h1>
 <p align="left">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ 
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+ <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+ <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+ <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   
 </p>
 
@@ -79,12 +80,12 @@ class Student(Homo_sapien):
   
   <h1 align="left"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height = 40 width = 40>Frameworks and AI :</h3>
 <p align="left">
- <img src="	https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
- <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
- <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Pygame_logo.gif" width = 160 height = 30>
+ <a href="https://numpy.org/"><img src="	https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
+ <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
+ <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"></a>
+ <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+ <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></a>
+ <a href="https://www.pygame.org/download.shtml"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Pygame_logo.gif" width = 160 height = 30></a>
  
   </p>
   
@@ -92,11 +93,11 @@ class Student(Homo_sapien):
   
  # Other tools and IDEs
   <p align="left">
-   <img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D">
-   <img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC">
-   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&labelColor=black&color=00979D"></a>
+   <a href="https://code.visualstudio.com/download"><img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"></a>
+   <a href="https://www.office.com/"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
+   <a href="https://www.arduino.cc/en/software"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"></a>
+   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
   </p>
   
   
