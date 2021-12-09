@@ -8,10 +8,22 @@
 
 <img align='right' src="https://github.com/GSAUC3/GSAUC3/blob/main/video_2021-12-09_00-54-11.gif"  width="200" height="250">
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GSAUC3" alt="GSAUC3" /></a> </p>
--->
-
 #  <img align="center" src="https://github.com/GSAUC3/GSAUC3/blob/main/Ry6p.gif" width="50px" height="50px">  A little bit about me
+```python
+
+class Student(Homo_sapien):
+    Preferred_language = PYTHON
+    def __init__(self):
+         self.name = "Rajarshi"
+         self.surname = "Banerjee"
+         self.university = 'University of Calcutta'
+         self.stream = 'Optics and Optoelectronics Engineering'
+         self.depertment = 'Department of Applied Optics and Photonics'
+```
+
+
+
+
 - 💻 I'm a final year student at University Of Calcutta <img src="https://github.com/GSAUC3/Department-Database-Project/blob/master/img/culogo.png" width="40px" height="40px">
 
 - 👨‍💻 Made couple of projects and loves to create new stuffs (games, GUI programs etc.) 
