@@ -23,7 +23,7 @@ class Student:
 ```
 
 
-
+<a href="https://gsauc3.github.io/personal-portfolio/"><img align="center" src="https://img.shields.io/badge/RESUME-0078D4?style=for-the-badge"></a>
 
 - 💻 I'm a final year student at University Of Calcutta <a href="https://www.caluniv.ac.in/"> <img align ="center" src="https://github.com/GSAUC3/Department-Database-Project/blob/master/img/culogo.png" width="40px" height="40px"></a>
 
