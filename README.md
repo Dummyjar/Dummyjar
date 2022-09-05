@@ -11,21 +11,28 @@
 #  <img align="center" src="https://github.com/GSAUC3/GSAUC3/blob/main/Ry6p.gif" width="50px" height="50px">  A little bit about me
 ```python
 
-class Student:
+class Engineer:
     Preferred_language = PYTHON
-    def __init__(self, id):
-         self.__id = id
+    def __init__(self):
+         self.name = 'Rajarshi Banerjee'
          self.university = 'University of Calcutta'
          self.stream = 'Optics and Optoelectronics Engineering'
          self.depertment = 'Department of Applied Optics and Photonics'
     # Python art gifs will take to the respective repository 
     # also everything thing is clickable ;)
+    
+    def interests(self):
+        return ', '.join(['Deep Learning','Computer Vision','Machine Learning',
+                          'AR VR XR','Image processing'])
+       
+    def skills(self):
+        return ', '.join(['Python','PyTorch','CNNs','Numpy','keras','tkinter','DSA','Deep Learning'])
 ```
 
 
 <!-- <a href="https://gsauc3.github.io/personal-portfolio/"><img align="center" src="https://img.shields.io/badge/RESUME-0078D4?style=for-the-badge"></a> -->
 
-- 💻 I'm a final year student at University Of Calcutta <a href="https://www.caluniv.ac.in/"> <img align ="center" src="https://github.com/GSAUC3/Department-Database-Project/blob/master/img/culogo.png" width="40px" height="40px"></a>
+- 💻 I have completed my B.Tech from University Of Calcutta <a href="https://www.caluniv.ac.in/"> <img align ="center" src="https://github.com/GSAUC3/Department-Database-Project/blob/master/img/culogo.png" width="40px" height="40px"></a> in Optics and Optoelectronics Engineering.
 
 - 👨‍💻 Made couple of projects and loves to create new stuffs (games, GUI programs etc.) 
 
