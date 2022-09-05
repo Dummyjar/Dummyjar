@@ -6,8 +6,9 @@
   <img src="https://profile-counter.glitch.me/GSAUC3/count.svg" />
 </p>
 
-<img align='right' src="https://github.com/GSAUC3/GSAUC3/blob/main/video_2021-12-09_00-54-11.gif"  width="200" height="250">
-
+<!--
+img align='right' src="https://github.com/GSAUC3/GSAUC3/blob/main/video_2021-12-09_00-54-11.gif"  width="200" height="250">
+-->
 #  <img align="center" src="https://github.com/GSAUC3/GSAUC3/blob/main/Ry6p.gif" width="50px" height="50px">  A little bit about me
 ```python
 
