@@ -157,7 +157,6 @@ class Engineer:
 
 
 
-
 ***
 # Github Activity:
 
@@ -179,6 +178,61 @@ class Engineer:
 ![Rajarshi Banerjee - Intro to Deep Learning](https://user-images.githubusercontent.com/55054089/145187513-32425f2b-14d8-476e-a888-5efe883a7e11.png)
 ![Screenshot 2021-12-08 152702](https://user-images.githubusercontent.com/55054089/145188086-ec3e1d5b-9cb8-4ca5-b636-1f257ce18169.png)
 
-  
-</details>
+  </details>
+
+ 
+```python
+                                                   
+                                                  
+                             q-J                  
+                           >S~~~|pME              
+                          DV}}~~~~~}9gK           
+                       =Kb[mz~~}~~~~~~mr          
+                       )k~~~~~~~~~~~~~~~          
+                      Fy~~S\!%O h~~~~~~~~+        
+                      vvj<       (|x~~~~~~B       
+                     1e\#         ]>}~~~~~\       
+                     [V5kqIL*     X=uz~~~~~"      
+                        3FRz02     Xq~~~~~~{!     
+                     + xz /;Y|d    VZl~~~~~~j     
+                     .y  |2I2 P&(S (uty~~~~~W     
+                    |>  zK75>%pR_&gqz~p~~~~~r     
+                   xt   1C        Bx~~s~|`s~h     
+                       (           f~n\7\-|aQ     
+                                  vrR   Sd7Wi     
+                                  1~^  <e   C     
+                   #a 7          t~a+ (4W ~~&     
+                  Ev %           n~O\~^lw @j      
+                   1             Gz6 2q  =i+      
+                  #('            )|e-    =j2      
+                  HW,$p          b~~R.)s>y6       
+                  %              6~~xQ~~P~6       
+                  4]            [~~~< 7ngY        
+                  |9x         {!}~~~v  cj!        
+                   V        3Eu~~~~y  heM         
+                   y     5;l}~~~~~~}  f$          
+                   #lW$J0~~~~~~~~~A  l~9          
+                   y~~w{~~~~~~~~|/   fi           
+                    %`\;L~~~~=hux%  k~0           
+                        s~~xV   )   ;~V           
+                        \~~Z   WR  (q~.           
+                       z~~~8{/k u  7}~v           
+                       &Z,'{xsC^  Ty~|            
+                     w[      6C   [~~}            
+                  @=p~b          ]~~~|h           
+                a`~~~~u          _~~~~YD!         
+             0$k~~~~~~~e   v t* 6~~~~aO~}A?       
+           m^~~~~~~~~~~s        1~~pQ|x}~~~fr     
+        <>z~~~~~~~~~~~~~`|      q=G+  "M~~~~~xBXu 
+      7Z~~~~~~~~~~~~~~~~~kC    ^D   w'lp~~~~~~~~}`
+    %G~~~~~~~~~~~~~~~~~~~~~MU     !B&b~~~~~~~~~~~~
+   Ty~~~~~~~~~~~~~~~~~~~~~~~~z_>6Jj~~~~~~~~~~~~~~~
+  P~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  t~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ p~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Y~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|z~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+``` 
+ 
 
