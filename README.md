@@ -43,6 +43,8 @@ class Engineer:
 
 - 📃 Check out all my published articles at  <a href ="https://auth.geeksforgeeks.org/user/rajarshiban13/articles"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a> 
 
+- 📝 My Medium <a href="https://medium.com/@rajarshiban13"> Blogs</a>
+
 - ⚡ Fun fact: **If you don't know the word "ghost" chances are you wouldn't know the word "Phasmophobia" either 👻**
 
 
